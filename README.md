@@ -1,1 +1,7 @@
-# TECHIN_510_Wi_23
+# TECHIN 510 Winter 2023
+UW GIX: Programming For Digital And Physical User Interfaces
+
+## Course Overview
+Students will enhance their fundamental programming skills, with a focus on sensor-based signals and data to demonstrate core concepts, while providing useful tools for prototyping digital and physical user interfaces relevant to both IoT and Robotics Systems. This course will introduce students to the practices of engineering interactive systems on mobile and desktop computers.
+
+This course builds on the learning objectives of TECHIN 509 by enabling students to build digital and physical user interfaces to bring their ideas to life. Students will expand upon their fundamental programming skills and learn web programming languages to develop various browser-based interactive applications. Next, they will learn to process events and continuous data streams from different sensors, including touchscreens, microphones, cameras, motion sensors, and wearables. They will learn different UI programming patterns and modern tools and services that support UI development. They will also practice intuitive UI design principles. Through a sequence of assignments, they will produce an interactive system that fully integrates all digital and physical interfaces practiced in the course. They will learn best practices for evaluating digital and physical UIs as well as for presenting interactive systems.
