@@ -25,6 +25,6 @@ To complete this lab, you will need to following:
 
 ## Steps
 - First, create a new project in your IDE
-- Ensure you have a virtual environment installed
+- Ensure you have a virtual environment installed (`python -m venv venv`)
 - Use `pip` to install the packages in the `requirements.txt` file
 - Create a new Python file (`.py`) called `app.py`
