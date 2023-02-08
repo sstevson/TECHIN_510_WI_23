@@ -17,10 +17,11 @@ deploying it to the Azure App Service which we explored last week.
 ## Requirements
 To complete this lab, you will need to following:
 - An IDE installed on your machine (most of you have Visual Studio Code)
-- Flask
-- Flask-Bootstrap
-- The Azure CLI
-- An Azure student account
+- [Homebrew](https://brew.sh)
+- Flask (in the `requirements.txt` file)
+- Flask-Bootstrap (in the `requirements.txt` file)
+- [The Azure CLI](https://learn.microsoft.com/en-us/cli/azure/)
+- [Azure student account](https://azure.microsoft.com/en-us/free/students/)
 - Templates which you can find in the `templates` directory
 
 ## Steps
